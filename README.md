@@ -1,6 +1,6 @@
 # Google-Proyect
 Una copia de Google, con un buen formatado
 
-Se termino el header con sus detalles y estilos
-
 Es algo esencial un readme.md
+
+se termino el proyecto y se envia a repositorio remoto
