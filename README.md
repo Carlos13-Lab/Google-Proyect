@@ -1,7 +1,5 @@
 # Google-Proyect
 
-Una copia de Google, con un buen formatado
+Copy of google browser made with Html and CSS styles.💻📍📘
 
-Es algo esencial un readme.md
-
-se termino el proyecto y se envia a repositorio remoto
+  <img src="./Google-img.png" alt="" >
